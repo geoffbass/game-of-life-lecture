@@ -1,0 +1,7 @@
+img {
+  image-orientation: from-image;
+}
+
+.done {
+  text-decoration: line-through;
+}
